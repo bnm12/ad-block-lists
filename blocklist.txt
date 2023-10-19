@@ -14,3 +14,4 @@ version2.dk,ing.dk##.in-content-article
 version2.dk,ing.dk##p:has(strong:has-text("Læs også"))
 version2.dk,ing.dk##.block--entity-tryout--form-container, .block--entity-tryout-hidden-body::after
 version2.dk,ing.dk##.block--entity-tryout-hidden-body:remove-attr(style)
+||policy.app.cookieinformation.com^$script,domain=version2.dk|ing.dk

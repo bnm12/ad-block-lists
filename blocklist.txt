@@ -5,12 +5,12 @@
 ! Homepage: https://github.com/bnm12/ad-block-lists
 ! License: https://github.com/bnm12/ad-block-lists/blob/master/LICENSE
 
-! 2023-10-19 https://www.version2.dk
-www.version2.dk##.block-tm-kevel
-www.version2.dk##.jobs-embed, .jobs-wrapper
-www.version2.dk##.node__label--sponsored_content:upward(3)
-www.version2.dk##.mdc-layout-grid__cell:has(.tm-standard-media-block:only-child .node__label--sponsored_content)
-www.version2.dk##.in-content-article
-www.version2.dk##p:has(strong:has-text("Læs også"))
-www.version2.dk##.block--entity-tryout--form-container, .block--entity-tryout-hidden-body::after
-www.version2.dk##.block--entity-tryout-hidden-body:remove-attr(style)
+! 2023-10-19 https://www.version2.dk | https://www.ing.dk
+version2.dk,ing.dk##.block-tm-kevel
+version2.dk,ing.dk##.jobs-embed, .jobs-wrapper
+version2.dk,ing.dk##.node__label--sponsored_content:upward(3)
+version2.dk,ing.dk##.mdc-layout-grid__cell:has(.tm-standard-media-block:only-child .node__label--sponsored_content)
+version2.dk,ing.dk##.in-content-article
+version2.dk,ing.dk##p:has(strong:has-text("Læs også"))
+version2.dk,ing.dk##.block--entity-tryout--form-container, .block--entity-tryout-hidden-body::after
+version2.dk,ing.dk##.block--entity-tryout-hidden-body:remove-attr(style)

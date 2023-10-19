@@ -1,6 +1,6 @@
 ! Title: bnm12 Blocklist
 ! Description: Filters for a lot of random stuff mainly from personal use
-! Expires: 5 days
-! Last modified: 
+! Expires: 1 day
+! Last modified: 2023-10-19
 ! Homepage: https://github.com/bnm12/ad-block-lists
 ! License: https://github.com/bnm12/ad-block-lists/blob/master/LICENSE

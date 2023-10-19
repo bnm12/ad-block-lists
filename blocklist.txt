@@ -4,3 +4,13 @@
 ! Last modified: 2023-10-19
 ! Homepage: https://github.com/bnm12/ad-block-lists
 ! License: https://github.com/bnm12/ad-block-lists/blob/master/LICENSE
+
+! 2023-10-19 https://www.version2.dk
+www.version2.dk##.block-tm-kevel
+www.version2.dk##.jobs-embed, .jobs-wrapper
+www.version2.dk##.node__label--sponsored_content:upward(3)
+www.version2.dk##.mdc-layout-grid__cell:has(.tm-standard-media-block:only-child .node__label--sponsored_content)
+www.version2.dk##.in-content-article
+www.version2.dk##p:has(strong:has-text("Læs også"))
+www.version2.dk##.block--entity-tryout--form-container, .block--entity-tryout-hidden-body::after
+www.version2.dk##.block--entity-tryout-hidden-body:remove-attr(style)

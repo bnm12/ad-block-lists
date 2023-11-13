@@ -6,7 +6,7 @@
 ! License: https://github.com/bnm12/ad-block-lists/blob/master/LICENSE
 
 ! 2023-10-19 https://www.version2.dk | https://www.ing.dk
-version2.dk,ing.dk,radar.dk##.block-tm-kevel 
+version2.dk,ing.dk,radar.dk##.block-tm-kevel, .tmk-block 
 version2.dk,ing.dk,radar.dk##.jobs-embed, .jobs-wrapper
 version2.dk,ing.dk,radar.dk##.node__label--sponsored_content:upward(3)
 version2.dk,ing.dk,radar.dk##.mdc-layout-grid__cell:has(.tm-standard-media-block:only-child .node__label--sponsored_content)

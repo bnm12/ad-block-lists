@@ -26,3 +26,6 @@ www.computerworld.dk##.premium-facts-box
 www.computerworld.dk##.view-signup
 www.computerworld.dk##.premium-fade-overlay::after
 ||www.computerworld.dk/images/premium/fade-overlay.png
+
+! 2024-02-09 https://imgur.com
+imgur.com##div[id^='Col-Child-Imgur/Home/InContent']

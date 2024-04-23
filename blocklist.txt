@@ -1,5 +1,5 @@
 ! Title: bnm12 Blocklist
-! Description: Filters for a lot of random stuff mainly from personal use
+! Description: Filters for a lot of random stuff mainly for personal use. Very opinionated about bloat and annoyances
 ! Expires: 1 day
 ! Last modified: 2023-10-19
 ! Homepage: https://github.com/bnm12/ad-block-lists
@@ -18,7 +18,7 @@ version2.dk,ing.dk,radar.dk##.block--entity-tryout-hidden-body:remove-attr(style
 
 ! 2023-10-19 https://www.bt.dk
 ||consent.cookiebot.com/*$script,domain=www.bt.dk
-bt.dk##.dre-item__header
+bt.dk,eb.dk##.dre-item__header
 
 ! 2023-10-19 https://www.computerworld.dk
 computerworld.dk###computerworldleaderboard

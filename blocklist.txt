@@ -18,13 +18,14 @@ version2.dk,ing.dk,radar.dk##.block--entity-tryout-hidden-body:remove-attr(style
 
 ! 2023-10-19 https://www.bt.dk
 ||consent.cookiebot.com/*$script,domain=www.bt.dk
+bt.dk##.dre-item__header
 
 ! 2023-10-19 https://www.computerworld.dk
-www.computerworld.dk###computerworldleaderboard
-www.computerworld.dk###jobworldjobblock
-www.computerworld.dk##.premium-facts-box
-www.computerworld.dk##.view-signup
-www.computerworld.dk##.premium-fade-overlay::after
+computerworld.dk###computerworldleaderboard
+computerworld.dk###jobworldjobblock
+computerworld.dk##.premium-facts-box
+computerworld.dk##.view-signup
+computerworld.dk##.premium-fade-overlay::after
 ||www.computerworld.dk/images/premium/fade-overlay.png
 
 ! 2024-02-09 https://imgur.com

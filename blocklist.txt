@@ -18,7 +18,7 @@ version2.dk,ing.dk,radar.dk##.block--entity-tryout-hidden-body:remove-attr(style
 
 ! 2023-10-19 https://www.bt.dk
 ||consent.cookiebot.com/*$script,domain=www.bt.dk
-bt.dk,eb.dk##.dre-item__header
+bt.dk,eb.dk,ekstrabladet.dk##.dre-item__header
 
 ! 2023-10-19 https://www.computerworld.dk
 computerworld.dk###computerworldleaderboard

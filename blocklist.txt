@@ -32,3 +32,6 @@ computerworld.dk##.premium-fade-overlay::after
 
 ! 2024-02-09 https://imgur.com
 imgur.com##div[id^='Col-Child-Imgur/Home/InContent']
+
+! 30 Sept 2024 https://www.pricerunner.dk
+www.pricerunner.dk##[class*=ProductList-grid] > div:contains('Sponsoreret')

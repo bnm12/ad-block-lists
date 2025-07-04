@@ -35,3 +35,6 @@ imgur.com##div[id^='Col-Child-Imgur/Home/InContent']
 
 ! 30 Sept 2024 https://www.pricerunner.dk
 www.pricerunner.dk##[class*=ProductList-grid] > div:contains('Sponsoreret')
+
+! Jul 4, 2025 https://woman.dk
+woman.dk##.bp-ads

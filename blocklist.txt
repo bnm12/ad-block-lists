@@ -38,3 +38,6 @@ www.pricerunner.dk##[class*=ProductList-grid] > div:contains('Sponsoreret')
 
 ! Jul 4, 2025 https://woman.dk
 woman.dk##.bp-ads
+
+! Dec 9, 2025 https://nyheder.tv2.dk
+tv2.dk##[id^=live-poll]:has(.tc_loginprompt)

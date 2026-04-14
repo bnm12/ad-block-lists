@@ -29,6 +29,11 @@ computerworld.dk###jobworldjobblock
 computerworld.dk##.premium-facts-box
 computerworld.dk##.view-signup
 computerworld.dk##.premium-fade-overlay::after
+www.computerworld.dk##.card:has(.premium-locked-icon)
+www.computerworld.dk##.card:has(.ad-notice-label)
+www.computerworld.dk##.block-newsletter
+www.computerworld.dk##[class*="block-job"]
+www.computerworld.dk##[class*="block-ad"]
 ||www.computerworld.dk/images/premium/fade-overlay.png
 
 ! 2024-02-09 https://imgur.com

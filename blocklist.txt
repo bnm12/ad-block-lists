@@ -14,6 +14,7 @@ version2.dk,ing.dk,radar.dk##.in-content-article,.mns--wrapper
 version2.dk,ing.dk,radar.dk##p:has(strong:has-text("Læs også"))
 version2.dk,ing.dk,radar.dk##.block--entity-tryout--form-container, .block--entity-tryout-hidden-body::after
 version2.dk,ing.dk,radar.dk##.block--entity-tryout-hidden-body:remove-attr(style)
+version2.dk,ing.dk,radar.dk##.kevel-topscroll-frame-wrapper
 ||policy.app.cookieinformation.com^$script,domain=version2.dk|ing.dk|radar.dk
 
 ! 2023-10-19 https://www.bt.dk
